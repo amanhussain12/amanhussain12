@@ -7,7 +7,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
-
+---
 # 💫 About Me:
  Currently working on: Modern full-stack web applications, WordPress websites, and cross-platform mobile apps.<br>🌱 Currently learning: Python, Machine Learning, Deep Learning, and Agentic AI.<br>👯 Open to collaborating on: Open-source projects involving JavaScript, React, Node.js, Flutter, and WordPress.<br>🤝 Looking to improve: Scalable backend architecture, application performance, and cross-platform mobile optimization.<br>💬 Ask me about: React, Node.js, Express.js, MongoDB, REST APIs, Flutter, Firebase, and WordPress.<br>📫 Contact me: amanhus977@gmail.com<br>⚡ Fun fact: I debug my code faster when I talk to it.
 
