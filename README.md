@@ -1,4 +1,12 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=E34F26&text=Aman%20Hussain&section=header&reversal=true&textBg=false&fontSize=60&animation=fadeIn&rotate=1&strokeWidth=0
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=e34f26&text=Aman%20Hussain&section=header&reversal=true&textBg=false&fontSize=70&animation=fadeIn&rotate=1&strokeWidth=5&descAlign=44&descAlignY=100&stroke=4D4D4D&descSize=10&fontAlign=35&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-hussain-75b1a3422/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 # 💫 About Me:
  Currently working on: Modern full-stack web applications, WordPress websites, and cross-platform mobile apps.<br>🌱 Currently learning: Python, Machine Learning, Deep Learning, and Agentic AI.<br>👯 Open to collaborating on: Open-source projects involving JavaScript, React, Node.js, Flutter, and WordPress.<br>🤝 Looking to improve: Scalable backend architecture, application performance, and cross-platform mobile optimization.<br>💬 Ask me about: React, Node.js, Express.js, MongoDB, REST APIs, Flutter, Firebase, and WordPress.<br>📫 Contact me: amanhus977@gmail.com<br>⚡ Fun fact: I debug my code faster when I talk to it.
 
