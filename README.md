@@ -3,11 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-hussain-75b1a3422/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/aman-hussain-75b1a3422/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
-
 
 ---
 # 💫 About Me:
