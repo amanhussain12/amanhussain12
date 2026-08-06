@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=e34f26&text=Aman%20Hussain&section=header&reversal=true&textBg=false&fontSize=70&animation=fadeIn&rotate=1&strokeWidth=5&descAlign=44&descAlignY=100&stroke=4D4D4D&descSize=10&fontAlign=35&fontAlignY=35](https://capsule-render.vercel.app/api?type=pulse&height=300&color=a34739&text=Aman%20Hussain&section=header&reversal=true&textBg=false&fontColor=b5dea9&fontSize=70&animation=scaleIn&rotate=0&strokeWidth=5&descAlign=50&descAlignY=50&stroke=0C0C0C&fontAlign=50&fontAlignY=50)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=e34f26&text=Aman%20Hussain&section=header&reversal=true&textBg=false&fontSize=70&animation=fadeIn&rotate=1&strokeWidth=5&descAlign=44&descAlignY=100&stroke=4D4D4D&descSize=10&fontAlign=35&fontAlignY=35](https://capsule-render.vercel.app/api?type=pulse&height=300&color=a34739&text=Aman%20Hussain&section=header&reversal=true&textBg=false&fontColor=b5dea9&fontSize=70&animation=scaleIn&rotate=0&strokeWidth=5&descAlign=50&descAlignY=50&stroke=0C0C0C&fontAlign=50&fontAlignY=50"/>
 </p>
 
 <p align="center">
